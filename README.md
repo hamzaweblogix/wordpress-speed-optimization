@@ -112,7 +112,7 @@ define('COMPRESS_CSS', true);
 
 I offer WordPress speed optimisation as a standalone service — guaranteed to improve your PageSpeed score.
 
-[![Hire on Upwork](https://img.shields.io/badge/Hire_Me_on_Upwork-6fda44?style=for-the-badge&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/hamzaweblogix)
+[![Hire on Upwork](https://img.shields.io/badge/Hire_Me_on_Upwork-6fda44?style=for-the-badge&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/~0107e870033e421590)
 [![View Profile](https://img.shields.io/badge/GitHub_Profile-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/hamzaweblogix)
 
 ---
